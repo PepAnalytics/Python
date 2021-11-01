@@ -1,0 +1,4 @@
+Mamedov:26000
+Karpov:16000
+Ponamorenko:21000
+Yevtuwenko:47000
